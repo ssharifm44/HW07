@@ -1,0 +1,89 @@
+
+{
+    "songs":[
+    {
+       "genre":"Rap",
+       "title":"Lose Yourself",
+       "author":"Eminem",
+       "year":"2005",
+       "length": "5:20"
+    },
+    {
+        "genre":"Country",
+        "title":"Rockstar",
+        "author":"Nickleback",
+        "year":"2005",
+        "length": "4:15"
+    },
+    {
+        "genre":"Rock",
+        "title":"Santeria",
+        "author":"Sublime",
+        "year":"1982",
+        "length": "4:54"
+    },
+    {
+        "genre":"Rock",
+        "title":"Like a Rolling Stone",
+        "author":"Bob Dylan",
+        "year":"1965",
+        "length": "6:13"
+    },
+    {
+        "genre":"R and B",
+        "title":"What's Going On",
+        "author":"Marvin Gaye",
+        "year":"1971",
+        "length": "3:53"
+    },
+    {
+        "genre":"Disco",
+        "title":"Billie Gene",
+        "author":"Michael Jackson",
+        "year":"1982",
+        "length": "4:54"
+    },
+    {
+        "genre":"Hip Hop",
+        "title":"Hey Ya!",
+        "author":"OutKast",
+        "year":"2002",
+        "length": "3:55"
+    },
+    {
+        "genre":"Folk",
+        "title":"Dreams",
+        "author":"Fleetwood Mac",
+        "year":"1977",
+        "length": "4:18"
+    },
+    {
+        "genre":"Rock",
+        "title":"Imagine",
+        "author":"John Lennon",
+        "year":"1971",
+        "length": "3:03"
+    },
+    {
+        "genre":"Rap",
+        "title":"Love Sosa",
+        "author":"Chief Keef",
+        "year":"2012",
+        "length": "3:23"
+    },
+    {
+        "genre":"Rap",
+        "title":"Bound 2",
+        "author":"Kanye West",
+        "year":"2013",
+        "length": "3:49"
+    },
+    {
+        "genre":"Alternative",
+        "title":"Cigarette Daydreams",
+        "author":"Cage The Elephant",
+        "year":"2014",
+        "length": "3:27"
+    }
+ ]
+}
